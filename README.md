@@ -1,2 +1,2 @@
 # sushiroy
-My first GitHub repository 
+Frontend practice repository created during internship
